@@ -12,8 +12,6 @@ public class NoOfDig {
         int count=0;
         while(n>0)
         {
-            git add src/JavaBasics/BasicCode/NoOfDig.java
-
             n=n/10;
             count++;
         }
