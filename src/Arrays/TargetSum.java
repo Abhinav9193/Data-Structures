@@ -23,7 +23,6 @@ public class TargetSum {
         }
 
         System.out.println();
-
         for (int j = 0; j < arr.length; j++) {
             for (int k = j + 1; k <arr.length; k++) {
                 if ((arr[k] + arr[j] == t)) {
