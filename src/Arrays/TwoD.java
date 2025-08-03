@@ -8,5 +8,13 @@ public class TwoD {
         System.out.println(arr[0][0]);  //2
         System.out.println(arr[0][1]);  //3
         System.out.println(arr[1][0]);  //4
+
+        for(int[] row : arr)
+        {
+            for(int age : row)
+            {
+                System.out.println(age);
+            }
+        }
     }
 }
