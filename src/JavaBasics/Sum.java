@@ -17,6 +17,7 @@ public class Sum {
         int y = sc.nextInt();
         Sum sum = new Sum();
         int ans = sum.add(x,y);
-        System.out.println("Sum of the numbers is: " + ans);
+        System.out.println("Sum of the numbers is: " + ans );
+        System.out.println(Math.sqrt(81));
     }
 }
