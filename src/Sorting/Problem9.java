@@ -34,6 +34,7 @@ public class Problem9 {
         }
     }
 
+    
     static int maxVal(int[] arr) {
         int mx = Integer.MIN_VALUE;
         for (int i = 0; i < arr.length; i++) {
