@@ -45,4 +45,3 @@ public class Problem9 {
         return mx;
     }
 }
-
