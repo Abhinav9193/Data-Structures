@@ -10,6 +10,7 @@ public class Problem9 {
         display(arr);
     }
 
+    
     static void display(int[] arr) {
         for (Integer i : arr) {
             System.out.print(i + " ");
