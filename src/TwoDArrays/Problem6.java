@@ -24,6 +24,7 @@ public class Problem6{
         printSpiral(matrix, m, n);
     }
 
+    
     static void printSpiral(int[][] matrix, int m, int n) {
         int top = 0, bottom = m - 1;
         int left = 0, right = n - 1;
