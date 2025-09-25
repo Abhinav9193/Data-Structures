@@ -3,7 +3,6 @@ package Leetcode;
 import java.util.Scanner;
 
 public class P8 {
-
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the number of elements: ");
