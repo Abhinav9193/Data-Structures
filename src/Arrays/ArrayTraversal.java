@@ -1,7 +1,7 @@
 package Arrays;
 
 public class ArrayTraversal {
-
+    
     public static void main(String[] args) {
         int[] ages = new int[4];
         ages[0] = 34;
