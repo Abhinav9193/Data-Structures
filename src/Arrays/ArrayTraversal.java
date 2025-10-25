@@ -8,6 +8,7 @@ public class ArrayTraversal {
         ages[1] = 46;
         ages[2] = 53;
         ages[3] = 24;
+        
         for (int age: ages)
         {
             System.out.print(age + " ");
